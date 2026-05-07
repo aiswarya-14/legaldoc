@@ -5,11 +5,11 @@
 
 ✨ Features
 
-- 🧠 **Clause Simplification** — Converts complex legal language into plain English for easy understanding.
-- 🔍 **Named Entity Recognition (NER)** — Extracts parties, dates, obligations, monetary values, and key legal terms.
-- 📋 **Clause Extraction** — Automatically identifies and lists individual clauses from the document.
-- 🗂️ **Document Type Classification** — Classifies the document as an NDA, lease, employment contract, service agreement, or other type.
-- 📁 **Multi-format Support** — Accepts PDF, DOCX, and TXT files.
+- 🧠 Clause Simplification — Converts complex legal language into plain English for easy understanding.
+- 🔍 Named Entity Recognition (NER) — Extracts parties, dates, obligations, monetary values, and key legal terms.
+- 📋 Clause Extraction — Automatically identifies and lists individual clauses from the document.
+- 🗂️ Document Type Classification — Classifies the document as an NDA, lease, employment contract, service agreement, or other type.
+- 📁 Multi-format Support — Accepts PDF, DOCX, and TXT files.
 
 
 🎬 Demo
@@ -29,11 +29,11 @@ Upload any legal document through the Gradio interface and receive structured an
 
 ⚙️ How It Works
 
-1. 📂 **Text Extraction** — The uploaded file is parsed based on its extension (`.pdf`, `.docx`, or `.txt`).
-2. 🧾 **Simplification** — The first 1,000 characters are sent to the Granite model with a simplification prompt.
-3. 🔎 **NER** — The first 2,000 characters are analyzed for legal entities and key terms.
-4. ✂️ **Clause Extraction** — Lines with meaningful content are split and labeled as individual clauses.
-5. 🏷️ **Classification** — The document type is inferred from the first 2,000 characters.
+1. 📂 Text Extraction — The uploaded file is parsed based on its extension (`.pdf`, `.docx`, or `.txt`).
+2. 🧾 Simplification — The first 1,000 characters are sent to the Granite model with a simplification prompt.
+3. 🔎 NER — The first 2,000 characters are analyzed for legal entities and key terms.
+4. ✂️ Clause Extraction — Lines with meaningful content are split and labeled as individual clauses.
+5. 🏷️ Classification — The document type is inferred from the first 2,000 characters.
 
 
 
@@ -54,7 +54,7 @@ Upload any legal document through the Gradio interface and receive structured an
 
  👩‍💻 Author
 
-**aiswarya-14** — [GitHub Profile](https://github.com/aiswarya-14)
+Aiswarya (CSBS Student)
 
 
 This project is open source. Feel free to fork, modify, and build upon it.
