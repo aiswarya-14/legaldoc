@@ -30,6 +30,8 @@ Upload any legal document through the Gradio interface and receive structured an
 | ⚙️ ML Pipeline       | Hugging Face Transformers |
 
 
+
+
 ⚙️ How It Works
 
 1. 📂 Text Extraction — The uploaded file is parsed based on its extension (`.pdf`, `.docx`, or `.txt`).
