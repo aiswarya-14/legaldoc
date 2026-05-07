@@ -19,11 +19,14 @@ Upload any legal document through the Gradio interface and receive structured an
 
 🛠️ Tech Stack
 
-| Component             | Technology |
 | 🤖 AI Model          | [IBM Granite Guardian 3.1 2B](https://huggingface.co/ibm-granite/granite-guardian-3.1-2b) |
+
 | 🖥️ UI Framework      | [Gradio](https://gradio.app/) |
+
 | 📄 PDF Parsing       | PyPDF2 |
+
 | 📝 DOCX Parsing      | python-docx |
+
 | ⚙️ ML Pipeline       | Hugging Face Transformers |
 
 
