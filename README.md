@@ -60,6 +60,3 @@ Upload any legal document through the Gradio interface and receive structured an
  👩‍💻 Author
 
 Aiswarya (CSBS Student)
-
-
-This project is open source. Feel free to fork, modify, and build upon it.
